@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  position: relative;
+  position: fixed;
 }
 
 /* Bottom right text */
