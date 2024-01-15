@@ -11,16 +11,14 @@ body {
 
 /* Bottom right text */
 .text-block {
-  font-size: x-large;
+  font-size: large;
   font-family: Georgia, 'Times New Roman', Times, serif;
   position: absolute;
-  bottom: 20px;
-  top: 300px;
-  right: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   background-color: rgba(0, 0, 0, 0);
   color: rgb(162, 5, 171);
-  padding-left: 660px;
-  padding-right: 660px;
 }
 
 
